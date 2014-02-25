@@ -1,0 +1,1 @@
+thorcoinminer -o POOL*IP*AND*PORT -u POOLWORKERNAME -p POOLPASSWORD --scrypt --Nfmin 4 --Nfmax 30 --StartT 1393167677 -I 15

@@ -1,0 +1,1 @@
+thorcoinminer -o 127.0.0.1:29551 -u USERNAME -p USERPASSWORD --scrypt --Nfmin 4 --Nfmax 30 --StartT 1393167677 -I 15

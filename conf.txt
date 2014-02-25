@@ -1,0 +1,3 @@
+Settings for GPU Mining Thorcoin 
+
+--Nfmin 4 --Nfmax 30 --StartT 1393167677
